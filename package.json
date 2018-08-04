@@ -1,5 +1,5 @@
 {
-  "name": "webpage",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "Portfolio website",
   "main": "index.js",
@@ -10,5 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.9.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CCWongVR/portfolio-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CCWongVR/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/CCWongVR/portfolio-website#readme"
 }
